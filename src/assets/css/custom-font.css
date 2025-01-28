@@ -1,0 +1,36 @@
+@font-face {
+    font-family: 'ClashGroteskSemibold';
+    src: url('../fonts/ClashGroteskSemibold.eot');
+    src: url('../fonts/ClashGroteskSemibold.eot') format('embedded-opentype'),
+         url('../fonts/ClashGroteskSemibold.woff2') format('woff2'),
+         url('../fonts/ClashGroteskSemibold.woff') format('woff'),
+         url('../fonts/ClashGroteskSemibold.ttf') format('truetype'),
+         url('../fonts/ClashGroteskSemibold.svg#ClashGroteskSemibold') format('svg');
+}
+
+@font-face {
+    font-family: "title";
+    src: url("../fonts/Limelight-Regular.ttf");
+}
+
+@font-face {
+    font-family: "content";
+    src: url("../fonts/Poppins-Regular.ttf");
+}
+
+@font-face {
+    font-family: "content-light";
+    src: url("../fonts/Poppins-LightItalic.ttf");
+}
+
+@font-face {
+    font-family: "content-medium";
+    src: url("../fonts/Poppins-Medium.ttf");
+}
+
+@font-face {
+    font-family: "content-bold";
+    src: url("../fonts/Poppins-Bold.ttf");
+}
+
+
