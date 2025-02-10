@@ -28,7 +28,7 @@ function FooterContent() {
 					<ul>
 						<li>Send us an email:</li>
 						<li>
-							<a href="mailto:info@mthemeus.com">info@mthemeus.com</a>
+							<a href="mailto:info@mthemeus.com">info@casaagency.com</a>
 						</li>
 					</ul>
 				</div>

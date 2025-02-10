@@ -7,10 +7,27 @@
 	justify-content: space-between;
 	padding-top: 0px;
 }
+
+.brand-logo {
+
+	display: flex;
+	align-items: center;
+	flex-shrink: 0;
+	gap: 5px;
+
+}
+.brand-logo p {
+
+	color: #fff;
+	font-family: 'title';
+	font-size: 1.5rem;
+	margin-top: 3px;
+
+}
 .brand-logo,
 .default-logo,
 .responsive-logo {
-	max-width: 128px;
+
 	transition: all 0.4s;
 	position: relative;
 	margin-right: 35px;

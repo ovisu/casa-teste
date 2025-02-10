@@ -1,4 +1,4 @@
-import { createBrowserRouter } from "react-router-dom";
+import { createBrowserRouter, createHashRouter } from "react-router-dom";
 import LayoutEight from "../components/layout/LayoutEight.jsx";
 import LayoutFive from "../components/layout/LayoutFive.jsx";
 import LayoutFour from "../components/layout/LayoutFour.jsx";
@@ -36,7 +36,7 @@ import CommingSoon from "../page/utility/CommingSoon.jsx";
 import Faq from "../page/utility/Faq.jsx";
 import TestimonialPage from "../page/utility/Testimonial.jsx";
 
-export const router = createBrowserRouter([
+export const router = createHashRouter([
 	{
 		path: "/",
 		element: <Layout />,

@@ -78,8 +78,8 @@ function Projects() {
       <div className="container">
         <div className="aximo-section-title center light">
           <h2>
-            Have a w<span className="font-decor">i</span>de range of
-            <span className="aximo-title-animation">
+            Have a w<span className="font-decor">i</span>de range of {" "}
+            <span className="aximo-title-animation"> 
               creat<span className="font-decor">i</span>ve pro
               <span className="font-decor">j</span>ects
             </span>

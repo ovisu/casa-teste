@@ -2,8 +2,8 @@ import { Link } from "react-router-dom";
 import ArrowRightImg from "../../../assets/images/icon/arrow-right.svg";
 function ServiceCard({ service: { title, description, icon } }) {
 	return (
-		<div className="col-lg-6">
-			<div className="aximo-iconbox-wrap">
+		<div className="col-lg-6 " style={{maxWidth:"95%"}}>
+			<div className="aximo-iconbox-wrap position-parent">
 				<div className="aximo-iconbox-icon" style={{marginBottom:"15px"}}>
 					<i className={`${icon}`} style={{color:"#AFA0D1"}}></i>
 				</div>
